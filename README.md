@@ -12,10 +12,12 @@ While using MobiDiary we will not ask for any personal information. To use our a
 
 ​
 Delete Your Personal Data
+
 You have the ability to delete your personal data whenever you want to delete it. The only personal data is the audio you record.
 ​
 
 Changes to this Privacy Policy
+
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 We will let You know, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
