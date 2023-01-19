@@ -8,7 +8,7 @@ Last updated: January 18, 2023
 ​
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of your information when you use the service and tells you about Changes to this Privacy Policy.
 ​
-While using MobiDiary we will not ask for any personal information. To use our app registration is not a requirement you can simply use the app by downloading it from the app store. The security of Your Personal Data is important to Us
+While using MobiDiary we will not ask for any personal information. To use our app registration is not a requirement you can simply use the app by downloading it from the app store. The security of Your Personal Data is important to Us.
 
 ​
 Delete Your Personal Data
@@ -22,6 +22,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 ​
 
 Contact Us
-If you have any questions about this Privacy Policy, You can contact us:
+If you have any questions about this Privacy Policy, you can contact us:
 
 By email: semiraomer908@gmail.com
