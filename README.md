@@ -22,6 +22,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 ​
 
 Contact Us
+
 If you have any questions about this Privacy Policy, you can contact us:
 
 By email: semiraomer908@gmail.com
