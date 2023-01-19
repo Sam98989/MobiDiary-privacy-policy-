@@ -1,0 +1,1 @@
+# MobiDiary-privacy-policy-
